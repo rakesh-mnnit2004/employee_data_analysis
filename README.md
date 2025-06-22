@@ -17,5 +17,4 @@ Upon successful execution, the application will:
 •Generate employee_hierarchy.json in the project root directory.
 •Print the results of gratuity eligibility and salary comparisons to the console.
 •Print the SQL query for the Nth highest salary to the console.
-
  
